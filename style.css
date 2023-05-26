@@ -1,0 +1,116 @@
+body{
+    background-color: #696969;
+}
+.section_one{
+font-family: 'Anton', sans-serif;
+font-family: 'Cinzel', serif;
+color: #ff9900;
+font-size: 2rem;
+margin-top: 35px;
+text-align: center;
+}
+.section_duo{
+    color: aliceblue;
+    text-align: center;
+    margin-top: 15px;
+}
+.section_tree{
+    display: flex;
+    margin-top: 100px;
+    justify-content: center;
+   
+}
+/* Primeira Seção*/
+
+.box_one{
+border-radius: 15px;
+background-color: aliceblue;
+height: 250px;
+width: 180px;
+text-align: center;
+align-items: center;
+}
+
+.box_one_img img{
+margin-top: -45px;
+border-radius: 50%;
+box-shadow: 0 0 25px 0#ffffff;
+width: 120px;
+height: 120px;
+}
+.box_one_frase{
+font-family: 'Anton', sans-serif;
+font-family: 'Cinzel', serif;
+color: #ff9900;
+}
+.box_one_one{
+    font-size: 13px;
+    margin-top: 3px;
+}
+.box_one_button{
+    margin-top: 10px;
+}
+
+/* Segunda Seção*/
+
+.box_duo{
+    margin-left: 25px;
+    border-radius: 15px;
+    background-color: aliceblue;
+    height: 250px;
+    width: 180px;
+    text-align: center;
+    align-items: center;
+    }
+    
+    .box_duo_img img{
+    margin-top: -45px;
+    border-radius: 50%;
+    box-shadow: 0 0 25px 0#ffffff;
+    width: 120px;
+    height: 120px;
+    }
+    .box_duo_frase{
+    font-family: 'Anton', sans-serif;
+    font-family: 'Cinzel', serif;
+    color: #ff9900;
+    }
+    .box_one_duo{
+        font-size: 13px;
+        margin-top: 3px;
+    }
+    .box_duo_button{
+        margin-top: 10px;
+    }
+
+    /* Terceira Seção*/
+
+    .box_tree{
+        margin-left: 25px;
+        border-radius: 15px;
+        background-color: aliceblue;
+        height: 250px;
+        width: 180px;
+        text-align: center;
+        align-items: center;
+        }
+        
+        .box_tree_img img{
+        margin-top: -45px;
+        border-radius: 50%;
+        box-shadow: 0 0 25px 0#ffffff;
+        width: 120px;
+        height: 120px;
+        }
+        .box_one_tree{
+        font-family: 'Anton', sans-serif;
+        font-family: 'Cinzel', serif;
+        color: #ff9900;
+        }
+        .box_one_tree{
+            font-size: 13px;
+            margin-top: 3px;
+        }
+        .box_tree_button{
+            margin-top: 10px;
+        }
